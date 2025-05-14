@@ -65,3 +65,7 @@ I identified the `flag.txt` file and used the command ``get`` to retrieve it fro
 I used the ``cat`` command to display the contents of the file.  
 
 ![image](https://github.com/L0rdB43lish/HTB-Fawn/blob/594073254cef218d15ec70cfa2586491dd65b136/images/Captura%20de%20tela%202025-05-09%20181115.png)
+
+## What I Learned
+By completing this machine, I gained hands-on experience with basic enumeration and FTP exploitation.  
+I learned how to use `nmap` to scan for open ports and identify service versions, recognize an unauthenticated FTP service as a potential attack vector, connect to an FTP server using `anonymous` credentials, navigate and enumerate files in an FTP environment, and transfer files from the remote server and extract redable content using `cat`.
